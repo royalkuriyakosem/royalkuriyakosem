@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Royal</h1>
 <h3 align="center">Final-year B-Tech Student | ML Enthusiast | Software Developer</h3>
 _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engineering at the Federal Institute of Science and Technology (FISAT). A passionate software developer and ML enthusiast, I enjoy building practical solutions — from building websites and integrating AI-powered tools. When I'm not coding, you might catch me on a weekend ride, trekking, or exploring new places 🚴⛰️✈️. Always curious, always learning — and aiming to make a real impact with tech. 😉
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalkuriyakosem&label=Profile%20views&color=0e75b6&style=flat" alt="royalkuriyakosem" /> </p>
 
 - 🔭 I’m currently working on **Agentic AI**
