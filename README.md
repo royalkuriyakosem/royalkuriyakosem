@@ -26,6 +26,13 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 [![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=264de4)](https://github.com/royalkuriyakosem?tab=repositories&q=&type=&language=CSS)
 [![Sass](https://img.shields.io/badge/-Sass-fff?&logo=Sass&logoColor=cc6699)](https://github.com/royalkuriyakosem?tab=repositories&q=&type=&language=Sass)
 
+### Public Projects
+
+<a href="https://github.com/royalkuriyakosem/ReVogue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=royalkuriyakosem&&theme=radical&repo=ReVogue" />
+</a>
+
+
 ✨ Skill Levels  
 ![C](https://img.shields.io/badge/C-Expert-orange)  
 ![Java](https://img.shields.io/badge/Java-Expert-orange)  
