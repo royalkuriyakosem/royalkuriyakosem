@@ -86,6 +86,36 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royalkuriyakosem&show_icons=true&locale=en&layout=compact" alt="royalkuriyakosem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royalkuriyakosem&show_icons=true&locale=en" alt="royalkuriyakosem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalkuriyakosem&" alt="royalkuriyakosem" /></p>
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=royalkuriyakosem&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=royalkuriyakosem&show_icons=true&locale=en&theme=radical" alt="royalkuriyakosem" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royalkuriyakosem&theme=radical" alt="royalkuriyakosem" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Joke" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/royalkuriyakosem/royalkuriyakosem/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/royalkuriyakosem/royalkuriyakosem/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </a>
+</p>
+
+
+<h3 align="left">WakaTime Stats 📊</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<h3 align="left">Recent Activity ⚡</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
