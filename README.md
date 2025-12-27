@@ -113,6 +113,11 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 <h3 align="left">WakaTime Stats 📊</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Recent Activity ⚡</h3>
