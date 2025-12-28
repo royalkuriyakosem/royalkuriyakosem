@@ -115,7 +115,8 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   10 mins         ████████████████████░░░░░   79.75 %
+YAML        2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.25 %
 ```
 
 <!--END_SECTION:waka-->
