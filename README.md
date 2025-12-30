@@ -115,9 +115,10 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 mins         ██████████████░░░░░░░░░░░   56.47 %
-Terraform    10 mins         ████████▓░░░░░░░░░░░░░░░░   34.72 %
-YAML         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+TypeScript   33 mins         ████████████████░░░░░░░░░   64.15 %
+Terraform    10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+JavaScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+YAML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
