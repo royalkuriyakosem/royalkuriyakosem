@@ -123,8 +123,8 @@ No activity tracked
 <h3 align="left">Recent Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0](https://github.com/royalkuriyakosem/e-com-angular/releases/tag/v0) in [royalkuriyakosem/e-com-angular](https://github.com/royalkuriyakosem/e-com-angular)
-2. 🚀 Published release [v0](https://github.com/royalkuriyakosem/frontend_TripAdvisor/releases/tag/v0) in [royalkuriyakosem/frontend_TripAdvisor](https://github.com/royalkuriyakosem/frontend_TripAdvisor)
+1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
+2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 3. 🚀 Published release [v0](https://github.com/royalkuriyakosem/backend-TripAdvisor/releases/tag/v0) in [royalkuriyakosem/backend-TripAdvisor](https://github.com/royalkuriyakosem/backend-TripAdvisor)
 4. 🚀 Published release [v0](https://github.com/royalkuriyakosem/Wander-Lust/releases/tag/v0) in [royalkuriyakosem/Wander-Lust](https://github.com/royalkuriyakosem/Wander-Lust)
 5. 🚀 Published release [v0](https://github.com/royalkuriyakosem/PhishDetect/releases/tag/v0) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
