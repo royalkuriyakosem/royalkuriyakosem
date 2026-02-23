@@ -126,8 +126,8 @@ Markdown     2 mins                ▓░░░░░░░░░░░░░░
 <h3 align="left">Recent Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/main-project/pull/1) in [royalkuriyakosem/main-project](https://github.com/royalkuriyakosem/main-project)
-2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/main-project/pull/1) in [royalkuriyakosem/main-project](https://github.com/royalkuriyakosem/main-project)
+1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
+2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 3. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 4. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 5. 🚀 Published release [v0](https://github.com/royalkuriyakosem/PhishDetect/releases/tag/v0) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
