@@ -115,9 +115,7 @@ _I'm Royal Kuriyakose, a final-year B.Tech student in Computer Science and Engin
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   22 mins               ██████████████▓░░░░░░░░░░   58.63 %
-Python       13 mins               ████████▓░░░░░░░░░░░░░░░░   34.72 %
-Markdown     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
