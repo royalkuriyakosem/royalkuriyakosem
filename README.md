@@ -126,8 +126,8 @@ TSConfig     0 secs                ░░░░░░░░░░░░░░░
 <h3 align="left">Recent Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
-2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
+1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/python-price-calculator/pull/1) in [royalkuriyakosem/python-price-calculator](https://github.com/royalkuriyakosem/python-price-calculator)
+2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/python-price-calculator/pull/1) in [royalkuriyakosem/python-price-calculator](https://github.com/royalkuriyakosem/python-price-calculator)
 3. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 4. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 5. 🚀 Published release [v0](https://github.com/royalkuriyakosem/PhishDetect/releases/tag/v0) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
