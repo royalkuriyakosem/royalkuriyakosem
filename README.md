@@ -123,7 +123,7 @@ No activity tracked
 <h3 align="left">Recent Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/python-price-calculator/pull/1) in [royalkuriyakosem/python-price-calculator](https://github.com/royalkuriyakosem/python-price-calculator)
+1. 💪 Opened PR [#2](https://github.com/royalkuriyakosem/employee-app/pull/2) in [royalkuriyakosem/employee-app](https://github.com/royalkuriyakosem/employee-app)
 2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/python-price-calculator/pull/1) in [royalkuriyakosem/python-price-calculator](https://github.com/royalkuriyakosem/python-price-calculator)
 3. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 4. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
