@@ -123,9 +123,9 @@ No activity tracked
 <h3 align="left">Recent Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/royalkuriyakosem/employee-app/pull/2) in [royalkuriyakosem/employee-app](https://github.com/royalkuriyakosem/employee-app)
-2. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/python-price-calculator/pull/1) in [royalkuriyakosem/python-price-calculator](https://github.com/royalkuriyakosem/python-price-calculator)
-3. 🎉 Merged PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
+1. ℹ️ Labeled issue [#181](https://github.com/KeyValueSoftwareSystems/agent-opfor/issues/181) in [KeyValueSoftwareSystems/agent-opfor](https://github.com/KeyValueSoftwareSystems/agent-opfor)
+2. ❗ Opened issue [#181](https://github.com/KeyValueSoftwareSystems/agent-opfor/issues/181) in [KeyValueSoftwareSystems/agent-opfor](https://github.com/KeyValueSoftwareSystems/agent-opfor)
+3. 💪 Opened PR [#2](https://github.com/royalkuriyakosem/employee-app/pull/2) in [royalkuriyakosem/employee-app](https://github.com/royalkuriyakosem/employee-app)
 4. 💪 Opened PR [#1](https://github.com/royalkuriyakosem/PhishDetect/pull/1) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 5. 🚀 Published release [v0](https://github.com/royalkuriyakosem/PhishDetect/releases/tag/v0) in [royalkuriyakosem/PhishDetect](https://github.com/royalkuriyakosem/PhishDetect)
 <!--END_SECTION:activity-->
